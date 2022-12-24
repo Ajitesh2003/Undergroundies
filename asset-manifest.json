@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Undergroundies/static/css/main.037a3569.css",
+    "main.js": "/Undergroundies/static/js/main.61b14e14.js",
+    "static/js/787.18efdfbe.chunk.js": "/Undergroundies/static/js/787.18efdfbe.chunk.js",
+    "static/media/SEGA.woff": "/Undergroundies/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/Undergroundies/index.html",
+    "static/media/magnifier.svg": "/Undergroundies/static/media/magnifier.2bf505e88e640e499d088f5ebd1f6808.svg",
+    "main.037a3569.css.map": "/Undergroundies/static/css/main.037a3569.css.map",
+    "main.61b14e14.js.map": "/Undergroundies/static/js/main.61b14e14.js.map",
+    "787.18efdfbe.chunk.js.map": "/Undergroundies/static/js/787.18efdfbe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.037a3569.css",
+    "static/js/main.61b14e14.js"
+  ]
+}
